@@ -49,15 +49,15 @@ My goal is to solve real life problems using technology and create an impact :sp
 </details>
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="" alt="yash2026" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yash2026&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="yash2026" /></p>
 </details>
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="" src="" /></a></p>
+<p align="center"<a href="#"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=yash2026&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/yash2026"><img src="" alt="yash2026" /></a> </p>
+<p align="center"> <a href="https://github.com/yash2026"><img src="https://github-profile-trophy.vercel.app/?username=yash2026&margin-w=5&theme=radical" alt="yash2026" /></a> </p>
 </details>
 <br>
  
