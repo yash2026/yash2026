@@ -19,7 +19,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 
 ### More about me:
 
-- 🔭 &nbsp; Currently playing around ReactJS ecosystem and building [Ulinkus](https://github.com/Ulinkus).
+- 🔭 &nbsp; Currently playing around ReactJS ecosystem.
 - 🤝 &nbsp; Open for collaborations in web development projects.
 - 🌐 &nbsp; Visit my [porfolio website]() for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume]().
