@@ -19,12 +19,9 @@ My goal is to solve real life problems using technology and create an impact :sp
 
 ### More about me:
 
-- 🔭 &nbsp; Currently playing around ReactJS ecosystem.
 - 🤝 &nbsp; Open for collaborations in web development projects.
 - 🌐 &nbsp; Visit my [porfolio website]() for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1N4I1Qq44_uzVOGIeGUo5t0OoPVRX8X_e/view?usp=sharing).
-- :ski: &nbsp; When not coding, I binge watch shows, listen to music or play video games.
-- 🌱 &nbsp; Would love to hear about your project and big idea.
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
