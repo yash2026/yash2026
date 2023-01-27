@@ -21,7 +21,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 
 - 🤝 &nbsp; Open for collaborations in web development projects.
 - 🌐 &nbsp; Visit my [porfolio website]() for complete background and contact.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1N4I1Qq44_uzVOGIeGUo5t0OoPVRX8X_e/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Cu37t_bCtaG557tiaP4YPph6w_H1dIvm/view?usp=share_link).
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
