@@ -21,7 +21,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 
 - 🤝 &nbsp; Open for collaborations in web development projects.
 - 🌐 &nbsp; Visit my [porfolio website]() for complete background and contact.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Cu37t_bCtaG557tiaP4YPph6w_H1dIvm/view?usp=share_link).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/15Fn9lMyOdGSeXFLHkcr1U8ZwDP0oO1A3/view?usp=drive_link).
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
@@ -36,7 +36,6 @@ My goal is to solve real life problems using technology and create an impact :sp
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 - Backend : <br />
   [![Firebase](https://img.shields.io/badge/-Firebase-2C2D72?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/) 
-  [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) 
   [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org) 
   [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com) 
   
