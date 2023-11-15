@@ -1,14 +1,10 @@
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm <a href="">Yash</a> </h1>
-
-
-
+### Hi there, I'm [Yash](https://www.linkedin.com/in/yash-kumar-9b785b1a6/) 👋
 <p align="center">
     <a href=""><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link="/></a>
   <a href="https://www.linkedin.com/in/yash-kumar-9b785b1a6/"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-kumar-9b785b1a6/"/></a>
   <a href="mailto:yash38709@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:yash38709@gmail.com"/></a>
 <a href="https://twitter.com/me_yash_"><img alt="twitter" title="twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/me_yash_"/></a>
 <a href="https://auth.geeksforgeeks.org/user/yash22154/practice/"><img alt="geeksforgeeks" title="geeksforgeeks" src="https://img.shields.io/badge/-geeksforgeeks-success?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
-
 </p>
 
 <h2>About Me</h2>
@@ -21,7 +17,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 
 - 🤝 &nbsp; Open for collaborations in web development projects.
 - 🌐 &nbsp; Visit my [porfolio website]() for complete background and contact.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/15Fn9lMyOdGSeXFLHkcr1U8ZwDP0oO1A3/view?usp=drive_link).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1ohMIfy4udWcfs8uyDZX2ADiU33J_VnXb/view?usp=sharing).
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
