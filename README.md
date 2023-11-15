@@ -7,7 +7,7 @@
 <a href="https://auth.geeksforgeeks.org/user/yash22154/practice/"><img alt="geeksforgeeks" title="geeksforgeeks" src="https://img.shields.io/badge/-geeksforgeeks-success?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
-<h2>About Me</h2>
+<h3>About Me</h3>
 
 I am a junior doing Electronics and communication engineering from UIET Kurukshetra :classical_building:. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Development, Computer Vision and Competitive Coding.
 I am a curious person who wants to explore every tech stack :bulb: .<br>
@@ -19,7 +19,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 - 🌐 &nbsp; Visit my [porfolio website]() for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1ohMIfy4udWcfs8uyDZX2ADiU33J_VnXb/view?usp=sharing).
 
-<h2> 🛠 &nbsp;My Tech Stack</h2>
+<h3> 🛠 &nbsp;My Tech Stack</h3>
 
 - Programming languages : <br />
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/) 
@@ -39,7 +39,7 @@ My goal is to solve real life problems using technology and create an impact :sp
   [![VS Code](http://img.shields.io/badge/-VS%20Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
   [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
-<h2>ℹ️ &nbsp;Github Info</h2>
+<h3>ℹ️ &nbsp;Github Info</h3>
 <details>	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash2026&theme=github_dark" alt="yash2026" align = "center"/></p>
