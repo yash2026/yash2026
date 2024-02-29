@@ -1,6 +1,6 @@
 ### Hi there, I'm [Yash](https://www.linkedin.com/in/yash-kumar-9b785b1a6/) 👋
 <p align="center">
-    <a href=""><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link="/></a>
+    <a href="https://its21yash.netlify.app/"><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link="/></a>
   <a href="https://www.linkedin.com/in/yash-kumar-9b785b1a6/"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-kumar-9b785b1a6/"/></a>
   <a href="mailto:yash38709@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:yash38709@gmail.com"/></a>
 <a href="https://twitter.com/me_yash_"><img alt="twitter" title="twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/me_yash_"/></a>
@@ -16,6 +16,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 ### More about me:
 
 - 🤝 &nbsp; Open for collaborations in web development projects.
+- 🌐 &nbsp; Visit my [porfolio website](https://its21yash.netlify.app/) for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/12hKgz063Nrvvy5BwMDbaqtGaZd_eDkMk/view?usp=sharing).
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
