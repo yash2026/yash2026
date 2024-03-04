@@ -17,7 +17,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 
 - 🤝 &nbsp; Open for collaborations in web development projects.
 - 🌐 &nbsp; Visit my [porfolio website](https://its21yash.netlify.app/) for complete background and contact.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/12hKgz063Nrvvy5BwMDbaqtGaZd_eDkMk/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1oom4jq_NxPzQxvKZrtDzcWztkVM0w4T_/view?usp=sharing).
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
