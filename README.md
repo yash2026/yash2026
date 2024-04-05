@@ -1,9 +1,9 @@
 ### Hi there, I'm [Yash](https://www.linkedin.com/in/yash-kumar-9b785b1a6/) 👋
 <p align="center">
     <a href="https://its21yash.netlify.app/"><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link="/></a>
-  <a href="https://www.linkedin.com/in/yash-kumar-9b785b1a6/"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-kumar-9b785b1a6/"/></a>
+  <a href="https://www.linkedin.com/in/yashpal-kumar-9b785b1a6/"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yashpal-kumar-9b785b1a6/"/></a>
   <a href="mailto:yash38709@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:yash38709@gmail.com"/></a>
-<a href="https://twitter.com/me_yash_"><img alt="twitter" title="twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/me_yash_"/></a>
+<a href="https://twitter.com/its21yash"><img alt="twitter" title="twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/its21yash"/></a>
 <a href="https://auth.geeksforgeeks.org/user/yash22154/practice/"><img alt="geeksforgeeks" title="geeksforgeeks" src="https://img.shields.io/badge/-geeksforgeeks-success?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
