@@ -1,0 +1,32 @@
+name: Update GitLab Activity
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-gitlab-activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch GitLab activity
+        run: |
+          curl -s --header "PRIVATE-TOKEN: ${{ secrets.GITLAB_TOKEN }}" "https://gitlab.com/api/v4/users/its21yash/events" > gitlab_activity.json
+
+      - name: Update README
+        run: |
+          echo "## My Recent GitLab Activity" > README.md
+          cat gitlab_activity.json | jq -r '.[] | "* \(.action_name) on [\(.project_id)](\(.target_url)) at \(.created_at)"' >> README.md
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update GitLab activity"
+          git push
+
+      - name: Clean up
+        run: |
+          rm gitlab_activity.json
