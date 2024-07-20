@@ -1,4 +1,4 @@
-### Hi there, I'm [Yash](https://www.linkedin.com/in/yash-kumar-9b785b1a6/) 👋
+### Hi there, I'm [Yash](https://www.linkedin.com/in/yashpal-kumar-9b785b1a6/) 👋
 <p align="center">
     <a href="https://its21yash.netlify.app/"><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link="/></a>
   <a href="https://www.linkedin.com/in/yashpal-kumar-9b785b1a6/"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yashpal-kumar-9b785b1a6/"/></a>
@@ -9,7 +9,7 @@
 
 <h3>About Me</h3>
 
-I am a junior doing Electronics and communication engineering from UIET Kurukshetra :classical_building:. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Development, Computer Vision and Competitive Coding.
+I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Development, Computer Vision and Competitive Coding.
 I am a curious person who wants to explore every tech stack :bulb: .<br>
 My goal is to solve real life problems using technology and create an impact :sparkles:.
 
@@ -17,7 +17,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 
 - 🤝 &nbsp; Open for collaborations in web development projects.
 - 🌐 &nbsp; Visit my [porfolio website](https://its21yash.netlify.app/) for complete background and contact.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1oom4jq_NxPzQxvKZrtDzcWztkVM0w4T_/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1uUdMHYloEcVyOEDh8Gi7E1CLZ-_xFiWF/view?usp=sharing).
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
